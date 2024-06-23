@@ -1,4 +1,5 @@
 Simple_ICO
+
 Simple_ICO is a project that includes a token with specific tokenomics and a burn mechanism which allows the burning of 5% of the allocated burn amount every 3 months. Additionally, it includes an ICO contract through which the token can be sold in three phases at different prices.
 
 Documentation
